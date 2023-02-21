@@ -1,4 +1,4 @@
-# curriculum-databases-projects-template
+# Vet Clinic SQL Database
 
 ## Getting Started
 
